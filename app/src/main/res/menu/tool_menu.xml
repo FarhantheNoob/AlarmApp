@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/add_alarm"
+        android:icon="@drawable/ic_add_alarm"
+        app:showAsAction="ifRoom"
+        android:id="@+id/addAlarm"/>
+
+    <item
+        android:title="@string/delete"
+        android:id="@+id/deleteAlarm"
+        app:showAsAction="never"/>
+
+    <item
+        android:title="@string/settings"
+        android:id="@+id/AppSettings"
+        app:showAsAction="never"/>
+
+</menu>

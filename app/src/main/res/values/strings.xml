@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alarm App</string>
+    <string name="projectName">Team Shroud</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="delete">Delete</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="alarm_name">Alarm Name</string>
+    <string name="snooze">Snooze</string>
+</resources>
